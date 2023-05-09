@@ -1,0 +1,89 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+.project-card {
+  color: rgb(51, 51, 51);
+  width: 50%;
+  padding: 20px;
+
+}
+
+.project-card .project-image {
+  width: 100%;
+}
+
+.project-card h2{
+  font-family: 'Playfair Display', serif;
+}
+
+p {
+  font-family: 'Open Sans', sans-serif;
+  color: rgb(51, 51, 51);
+}
+
+.center-screen {
+  display: flex;
+  justify-content: center;
+  min-height: 100vh;
+}
+
+.center-text {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+
+h1 {
+  font-family: 'Playfair Display', serif;
+}
+
+h4 {
+  font-family: 'Playfair Display', serif;
+}
+
+.navbar-content {
+  padding: 0% 25%;
+  text-align: center;
+  align-items: center;
+}
+
+.navbar-text {
+
+}
