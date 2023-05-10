@@ -1,4 +1,4 @@
-import React, { App }  from 'react';
+import React from 'react';
 import { artworks } from "../data";
 
 export default function Gallery() {
