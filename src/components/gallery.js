@@ -6,12 +6,12 @@ export default function Gallery() {
       <div>
         {artworks.map((artwork) => (
         <div className="center-screen">
-        <div className="project-card">
-          <img className="project-image"
-          alt={artwork.title}
-          src={artwork.image}
-          />
-          <div className="center-text">
+          <div className="project-card">
+            <img className="project-image"
+            alt={artwork.title}
+            src={artwork.image}
+            />
+          <div className="project-text">
             <h2>
               <strong>{artwork.title}</strong>
               <br />
@@ -19,13 +19,17 @@ export default function Gallery() {
               <br />
               {artwork.media[0]}
             </h2>
-
           </div>
 
 
           <p>
             {artwork.description}
           </p>
+          <br />
+          <br />
+          <hr />
+          <br />
+          <br />
 
         </div>
         </div>
