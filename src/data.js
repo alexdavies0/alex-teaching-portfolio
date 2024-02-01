@@ -3,7 +3,7 @@ export const artworks = [
     title: "Peace",
     media: "Insulation board, paint, mirrors, sand",
     ks: "Key Stage 4",
-    description: "A sculpture addressing conflict in Israel and Palestine, inspired by the work of Robert Smithson and Mike Nelson, as well as Middle Eastern religious architecture.",
+    description: "A sculptural installation addressing conflict in Israel and Palestine, inspired by the work of Robert Smithson and Mike Nelson, as well as Middle Eastern religious architecture.",
     image_url: "/chesky-peace.jpg",
     id:"001",
   },
@@ -48,11 +48,11 @@ export const artworks = [
     id:"006",
   },
   {
-    title: "Buildings",
+    title: "Natural forms inspired pots",
     media: "ceramics",
     ks: "Key Stage 3",
-    description: "Ceramic building designs developed through the study of Antoni Gaudi, Richard Rogers and Brutalism",
-    image_url: "",
+    description: "Pots inspired by fruit created in response to the work of ceramicist Kate Malone. Created using the coil technique",
+    image_url: "/ceramics.jpg",
     id:"007",
   },
 ]
