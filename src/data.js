@@ -40,19 +40,19 @@ export const artworks = [
     id:"005",
   },
   {
-    title: "Still life with bottle",
-    media: "Watercolour on paper",
-    ks: "Key Stage 3",
-    description: "A painting inspired by Cubist artworks by Juan Gris and Pablo Picasso, exploring how objects can be shown from multiple viewpoints in a single artwok.",
-    image_url: "",
-    id:"006",
-  },
-  {
     title: "Natural forms inspired pots",
     media: "ceramics",
     ks: "Key Stage 3",
     description: "Pots inspired by fruit created in response to the work of ceramicist Kate Malone. Created using the coil technique",
     image_url: "/ceramics.jpg",
     id:"007",
+  },
+    {
+    title: "Still life with bottle",
+    media: "Watercolour on paper",
+    ks: "Key Stage 3",
+    description: "Paintings inspired by Cubist artworks by Juan Gris and Pablo Picasso, exploring how objects can be shown from multiple viewpoints in a single artwok.",
+    image_url: "cubism.jpg",
+    id:"006",
   },
 ]
