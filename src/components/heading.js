@@ -8,7 +8,7 @@ export default function Heading() {
       <br />
       <div className="title-text">
         <h1>Alex Davies Portfolio</h1>
-        <p>Artworks produced by students in Alex's KS3 and 4 Art classes using a range of materials and processes.</p>
+        <p>Alex is an Art teacher based in North London, currently working within the Charedi Jewish community. Below are a range of artworks produced by students in KS3 and 4 Art classes using a range of materials and processes.</p>
       </div>
       <br />
       <hr />
